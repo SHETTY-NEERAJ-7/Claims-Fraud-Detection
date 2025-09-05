@@ -46,10 +46,12 @@ Techniques Used: Exploratory Data Analysis (EDA) & Machine Learning (Decision Tr
 
 🤖 Machine Learning Models Used
 
-       Model	           Accuracy	          Observations
-Decision Tree Classifier	~91%	    Lower recall for fraud cases
-Random Forest Classifier	~92%	    Performed best overall
-Logistic Regression	        ~91%	    Good accuracy but recall issues
+|         Model             |Accuracy |           Observations           |
+|---------------------------|---------|----------------------------------|
+| Decision Tree Classifier  | ~91%    | Lower recall for fraud cases     |
+| Random Forest Classifier  | ~92%    | Performed best overall           |
+| Logistic Regression       | ~91%    | Good accuracy but recall issues  |
+
 
 Due to limited fraud cases and small dataset size, models showed lower recall for fraud detection. Collecting more data will significantly improve results.
 
