@@ -54,4 +54,5 @@ Logistic Regression	        ~91%	    Good accuracy but recall issues
 Due to limited fraud cases and small dataset size, models showed lower recall for fraud detection. Collecting more data will significantly improve results.
 
 ✅ Conclusion
+
 This project demonstrates the potential of machine learning in detecting fraudulent warranty claims. By leveraging predictive models, it helps save resources and improves the efficiency of claims processing. The study also highlights the importance of using balanced datasets for accurate fraud detection. For future work, the project can be enhanced by collecting more data, applying advanced techniques such as SMOTE, anomaly detection, and ensemble models, and ultimately deploying the model as a real-time fraud detection tool to streamline warranty claim verification.
